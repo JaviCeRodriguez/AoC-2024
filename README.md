@@ -2,7 +2,7 @@
 
 ## Introducción
 
-El objetivo de este año será resolver todos los ejercicios posibles en Python y Golang. Ese último es un nuevo lenguaje que aprenderé
+El objetivo de este año será resolver todos los ejercicios posibles en Python y Golang. Este último es un nuevo lenguaje que aprenderé.
 
 ## Días
 
